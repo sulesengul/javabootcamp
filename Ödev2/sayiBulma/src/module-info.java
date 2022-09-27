@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author CANSU
- *
- */
-module sayiBulma {
-}
